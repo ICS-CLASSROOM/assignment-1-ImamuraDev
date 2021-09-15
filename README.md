@@ -15,15 +15,15 @@ In summary, the sequence of screen you'll see is similar to the following
 
 1. Accept the assignment
 
-![](https://www.dropbox.com/s/kg2n97ee4eml4xt/1.png?dl=1)
+![](data/1.png)
 
 2. Repo being created. Referesh occasioanlly to get screen 3
 
-![](https://www.dropbox.com/s/fl72tbpi89722p2/22.png?dl=1)
+![](data/2.png)
 
 3. You're ready to go
 
-![](https://www.dropbox.com/s/e7z04zh7sxwc83u/3.png?dl=1)
+![](dat/3.png)
 
 
 
