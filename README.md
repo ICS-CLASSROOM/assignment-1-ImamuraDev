@@ -4,7 +4,7 @@ Please follow the instruction below to clone the assignment into your GitHub acc
 
     Navigate to the GitHub assignment page located at the following URL:
 
-https://classroom.github.com/a/JbBxjB-N
+https://classroom.github.com/a/ycUBgAb3
 
     You should see a message similar to the following prompting you to authorize “GitHub Classroom” to access your account. Click “Authorize github” to continue.
 
